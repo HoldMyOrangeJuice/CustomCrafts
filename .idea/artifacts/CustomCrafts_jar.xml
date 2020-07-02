@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CustomCrafts:jar">
+    <output-path>$PROJECT_DIR$/../../Server Enviroment/plugins</output-path>
+    <root id="archive" name="CustomCrafts.jar">
+      <element id="module-output" name="CustomCrafts" />
+    </root>
+  </artifact>
+</component>

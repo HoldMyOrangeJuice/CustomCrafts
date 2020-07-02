@@ -1,0 +1,10 @@
+name: CustomCrafts
+version: 1.1.0
+api-version: "1.14"
+main: HoldMyAppleJuice.CustomCrafts
+commands:
+  customcrafts:
+    aliases: cc
+
+# Сделано вместо подготовки к экзаменам
+author: HoldMyAppleJuice
